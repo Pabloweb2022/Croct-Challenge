@@ -1,7 +1,6 @@
 import {ReactElement, Suspense} from 'react';
 import {Slot} from '@croct/plug-react';
 
-
 type HomeBannerContent = {
   title: string,
   subtitle: string,
@@ -20,7 +19,7 @@ const fallbackBanner: HomeBannerContent = {
     }
 };
 
-export default function HomePage(): ReactElement {
+export default function HomePage(): ReactElement {  
     return (
         <Suspense fallback="Personalizing content...">
             <Slot id="home-banner" fallback={fallbackBanner}>
