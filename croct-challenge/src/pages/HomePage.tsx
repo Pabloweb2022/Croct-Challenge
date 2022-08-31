@@ -1,4 +1,4 @@
-import {ReactElement, Suspense, useState} from 'react';
+import {ReactElement, Suspense} from 'react';
 import {Slot} from '@croct/plug-react';
 
 
