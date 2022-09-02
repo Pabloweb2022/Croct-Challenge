@@ -3,10 +3,7 @@
 <p align="center">
   <img src="![logo-croct](https://user-images.githubusercontent.com/84820536/188223924-a12d0edf-be96-4291-8e5e-c137a9329a27.png)
 " width="200"/> 
-
 </p>
-
-
 
 ## :hammer_and_wrench: Ferramentas 
 
@@ -20,7 +17,7 @@
 - [Cypress](https://www.cypress.io)
 
 
-## :computer: Layout Desenvolvido
+## :computer: Layout developed
 
 ![croct-banner](https://user-images.githubusercontent.com/84820536/188223036-a5aec68e-f08b-4c73-a077-60f5d3cc2fce.png)
 
