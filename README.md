@@ -1,8 +1,9 @@
 <h1 align ="center" > :scroll: Croct Challenge </h1>
 
 <p align="center">
-  <img width="200"> ![logo-croct](https://user-images.githubusercontent.com/84820536/188223804-4c6fe29f-3cf3-4d9e-aba0-b7b06765381d.png)
-</img>
+  <img src="![logo-croct](https://user-images.githubusercontent.com/84820536/188223924-a12d0edf-be96-4291-8e5e-c137a9329a27.png)
+" width="200"> 
+
 </p>
 
 
