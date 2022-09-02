@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="![logo-croct](https://user-images.githubusercontent.com/84820536/188223924-a12d0edf-be96-4291-8e5e-c137a9329a27.png)
-" width="200"> 
+" width="200"/> 
 
 </p>
 
@@ -35,12 +35,12 @@
 $ npm install
 ```
 
-- *Starting project local in http://127.0.0.1:5173/ *
+- *Starting project local in http://127.0.0.1:5173/*
 ```
 $ npm run dev
 ```
 
-- * Start switch case tests *
+- *Start switch case tests*
 ```
 $ npx cypress open
 ```
