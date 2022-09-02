@@ -14,7 +14,7 @@ The marketing team has asked you to integrate a personalized banner on their web
 - [Styled-components](https://styled-components.com/docs/);
 - [@croct/plug-react](https://www.npmjs.com/package/@croct/plug-react);
 
-### 🤵 Testes
+### ⚙️ Tests
 - [Cypress](https://www.cypress.io)
 
 
