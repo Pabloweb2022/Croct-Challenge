@@ -29,15 +29,16 @@ background-image: linear-gradient(to left, rgb(62, 145, 95),rgb(116, 137, 124),r
 .buttonHome{
     margin-top: 1rem;
     height: 2.75rem;
-    width: 9rem;
+    width: 10rem;
     border: none;
     border-radius: 6px;
-    background-color:rgb(77,214, 132);
+    background-color:rgb(63,210, 154);
     cursor: pointer;
-    color: rgb(129, 131, 130);
+    color: rgb(255, 255, 255);
+    font-size: medium;
     transition: 0.5s;
     &:hover{
-       background-color:rgb(62, 145, 95);
+       background-color:rgb(18, 119, 88);
        color: white;
     }
 }
